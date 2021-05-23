@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on cloud
 - 🌱 I’m currently learning clustered architecture
 <br>
-![alt text](https://github.com/kannanve/kannanve/blob/master/cover1.png)
+![alt text](https://github.com/kannanve/kannanve/blob/master/cover.png)
 <!--
 **kannanve/kannanve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
