@@ -1,12 +1,12 @@
 ### Hi there 👋
+<p>
+    <img src="cover7.jpg" width="640" height="120"/>
+</p>
 - My primary coding language is JAVA
 - Been part of software industry for ~ 18 years
 - 🔭 I’m currently working on cloud
 - 🌱 I’m currently learning clustered architecture
 <br>
-<p>
-    <img src="cover7.jpg" width="640" height="120"/>
-</p>
 <!--
 **kannanve/kannanve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
