@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning clustered architecture
 <br>
 <p>
-    <img src="cover2.jpg" width="800" height="240" />
+    <img src="cover4.jpg" width="800" height="240" />
 </p>
 <!--
 **kannanve/kannanve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
