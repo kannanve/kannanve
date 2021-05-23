@@ -7,6 +7,13 @@
 <p>
     <img src="cover.jpg" width="800" height="240" />
 </p>
+
+<p>
+    <img src="cover1.jpg" width="800" height="240" />
+</p>
+<p>
+    <img src="cover2.jpg" width="800" height="240" />
+</p>
 <!--
 **kannanve/kannanve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
